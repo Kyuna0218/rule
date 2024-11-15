@@ -2,28 +2,12 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "weixinsxy.com",
         "wxapp.tc.qq.com",
 	"micu.hk",
         "xmsl.org",
 	"misakaf.org"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com",
-	".micu.hk",
-        ".xmsl.org",
-	".misakaf.org"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "micu",
-        "misakaf",
-	"xmsl"
       ]
     }
   ]
