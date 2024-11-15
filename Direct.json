@@ -2,30 +2,10 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "micu.hk",
-        "xmsl.org"
-	"misakaf.org"
-      ]
-    },
-    {
       "domain_suffix": [
         ".micu.hk",
         ".xmsl.org"
 	".misakaf.org"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "micu",
-        "xmsl"
-	"misakaf"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "129.226.3.47/32",
-        "162.62.163.63/32"
       ]
     }
   ]
