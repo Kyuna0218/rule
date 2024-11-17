@@ -5,28 +5,28 @@
       "domain": [
         "weixinsxy.com",
         "wxapp.tc.qq.com",
-		"micu.hk",
+	"micu.hk",
         "xmsl.org",
-		"misakaf.org",
-		"tanhuatv.site"
+	"misakaf.org",
+	"tanhuatv.site"
       ]
     },
     {
       "domain_suffix": [
         ".weixinsxy.com",
         ".wxapp.tc.qq.com",
-		".micu.hk",
+	".micu.hk",
         ".xmsl.org",
-		".misakaf.org",
-		".tanhuatv.site"
+	".misakaf.org",
+	".tanhuatv.site"
       ]
     },
     {
       "domain_keyword": [
         "micu",
         "misakaf",
-		"xmsl",
-		"tanhuatv"
+	"xmsl",
+	"tanhuatv"
       ]
     }
   ]
