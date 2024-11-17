@@ -8,7 +8,9 @@
 	"micu.hk",
         "xmsl.org",
 	"misakaf.org",
-	"tanhuatv.site"
+	"tanhuatv.site",
+	"steampowered.com",
+	"epicgames.com"
       ]
     },
     {
@@ -18,7 +20,9 @@
 	".micu.hk",
         ".xmsl.org",
 	".misakaf.org",
-	".tanhuatv.site"
+	".tanhuatv.site",
+	".steampowered.com",
+	".epicgames.com"
       ]
     },
     {
@@ -26,7 +30,9 @@
         "micu",
         "misakaf",
 	"xmsl",
-	"tanhuatv"
+	"tanhuatv",
+	"steampowered",
+	"epicgames"
       ]
     }
   ]
